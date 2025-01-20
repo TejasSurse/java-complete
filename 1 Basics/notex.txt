@@ -1,0 +1,13 @@
+Why Is java Platform Independent ? Why not C & C++ ?
+
+- When You run A c native code, it will be executed Immdediately. Whereas in the case of java, when you run the byte code, the code will first be converted into native code, the byte code will first be conveted into native code and thenbe executed.
+
+- When we say that java is platform Independent, it means that the byte code is independent of any platforms.
+
+- when you create a.exe it captures a machine code, where as when we create a byte code it does not capture machine code 
+
+- java programming language was developed by the Sun Microsystems and was launched in 1995. The language has had many version, the latest being java SE 8, and still findserlevance in the industry.
+
+------------------------------------------------------------------------------------------------------------------
+
+
