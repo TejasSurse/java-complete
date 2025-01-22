@@ -9,5 +9,12 @@ Why Is java Platform Independent ? Why not C & C++ ?
 - java programming language was developed by the Sun Microsystems and was launched in 1995. The language has had many version, the latest being java SE 8, and still findserlevance in the industry.
 
 ------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 
 
+The Components involved in writing program up to getting the output are :   
+
+- java.exe set up file 
+- javac compiler, which checks syntax
+- java interpreter , which unnderstands only byte code and converts it to natvie code 
+- human redable code 
